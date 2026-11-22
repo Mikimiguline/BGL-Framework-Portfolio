@@ -1,0 +1,37 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BGL_PlayerFeaturesGF",
+	"Description": "",
+	"Category": "Game Features",
+	"CreatedBy": "Burglar Studios Miguel Angel Monreal Lopez",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BGL_PlayerFeaturesGFRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+
+
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Active",
+
+	"Plugins": [
+		{
+			"Name": "BGL_GameCoreFramework",
+			"Enabled": true
+		}
+
+	]
+}

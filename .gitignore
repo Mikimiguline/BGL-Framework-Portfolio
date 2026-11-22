@@ -1,0 +1,24 @@
+# Unreal build output (this repo only carries source)
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Backup/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+.vs/
+.vscode/
+.idea/
+
+# Content is not distributed (licensed marketplace assets)
+Content/
+*.uasset
+*.umap
+
+# Local notes
+_private/
+
+# PDF tooling dependencies
+node_modules/

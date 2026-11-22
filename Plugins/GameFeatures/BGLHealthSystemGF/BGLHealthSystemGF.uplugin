@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BGLHealthSystemGF",
+	"Description": "HealthSystem",
+	"Category": "Game Features",
+	"CreatedBy": "BuglarStudios Miguel angel monreal lopez",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BGLHealthSystemGFRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "UniversalAI",
+			"Enabled": true
+		},
+		{
+			"Name": "BGL_GameCoreFramework",
+			"Enabled": true
+		}
+
+	]
+
+}
