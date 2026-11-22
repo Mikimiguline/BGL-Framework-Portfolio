@@ -21,6 +21,8 @@ A gameplay and AI framework built from scratch in UE5 C++. Characters, Pawns and
 
 **Key rules.** As few components per actor as possible · everything addressed by Gameplay Tags · decoupled communication through interfaces · work done once per pass for the whole population · polymorphic data as `FInstancedStruct`, not UObjects.
 
+Video: https://vimeo.com/1249170399?share=copy&fl=sv&fe=ci
+
 ## Documentation
 
 | PDF | What it covers |
