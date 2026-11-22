@@ -2,6 +2,8 @@
 
 > 📄 **Start here: [README.pdf](README.pdf)** — the full guide, with the architecture diagram, the design rules and a reading guide to the code.
 > More detail in [Documentation](Documentation/).
+>
+> 🎬 **Video:** [https://vimeo.com/1249170399](https://vimeo.com/1249170399)
 
 ---
 
@@ -14,7 +16,7 @@ A gameplay and AI framework built from scratch in UE5 C++. Characters, Pawns and
 | **Role focus** | Gameplay / AI Architecture, tools for designers |
 | **Engine** | Unreal Engine 5.5, C++ |
 | **Full project** | 6 plugins, ~300 source files |
-| **This repository** | The headers of the 62 curated files and three complete implementations; the rest of the code is private, available on request |
+| **This repository** | The headers of the 62 curated files and four complete implementations; the rest of the code is private, available on request |
 | **Benchmark** | 300 AI agents in combat, **< 5 ms game thread**; the AI itself costs about **1 µs per agent** |
 
 **Architecture.** Three layers of plugins: a genre-agnostic **Core**, a **Universal AI** layer for decision making, and **Game Features** (AI combat, perception, health, player input) injected at runtime by Gameplay Tag. A layer can use the layers above it, never the ones below.
