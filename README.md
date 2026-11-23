@@ -3,7 +3,8 @@
 > 📄 **Start here: [README.pdf](README.pdf)** — the full guide, with the architecture diagram, the design rules and a reading guide to the code.
 > More detail in [Documentation](Documentation/).
 >
-> 🎬 **Video:** [https://vimeo.com/1249170399](https://vimeo.com/1249170399)
+> 🎬 **Video:** [https://vimeo.com/1249170399](https://vimeo.com/1249170399)  
+> *Vimeo Limit 30 fps; the in-game counters show the real frame rate and costs.*
 
 ---
 
